@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/remine-india-landing-page/static/css/main.94f58396.css",
+    "main.js": "/remine-india-landing-page/static/js/main.35f59436.js",
+    "static/media/hero-img.png": "/remine-india-landing-page/static/media/hero-img.2db9b2e2adb60a3790db.png",
+    "static/media/whoweare.png": "/remine-india-landing-page/static/media/whoweare.0ed99849152d5cc0ca8f.png",
+    "static/media/cardimage-1.jpg": "/remine-india-landing-page/static/media/cardimage-1.e48b5d9d2f2c244b181c.jpg",
+    "static/media/cardimage-2.jpg": "/remine-india-landing-page/static/media/cardimage-2.388205e2ab9ba9bea80a.jpg",
+    "index.html": "/remine-india-landing-page/index.html",
+    "main.94f58396.css.map": "/remine-india-landing-page/static/css/main.94f58396.css.map",
+    "main.35f59436.js.map": "/remine-india-landing-page/static/js/main.35f59436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f58396.css",
+    "static/js/main.35f59436.js"
+  ]
+}
