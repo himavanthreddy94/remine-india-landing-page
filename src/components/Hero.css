@@ -1,0 +1,77 @@
+.main-container {
+    margin-top: 80px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.text-container {
+    margin-top: 100px;
+}
+
+.text-container h1 {
+    font-size: 4.4rem;
+    text-align: left;
+}
+
+.text-container p {
+    font-size: medium;
+    text-align: left;
+}
+
+.text-container a {
+    text-decoration: none;
+    color: white;
+}
+
+.image-container img {
+    width: 80%;
+}
+
+/* animation section */
+
+.animation-section {
+    background-color: #9acd4c;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.animation-section .animation-container {
+    text-align: center;
+}
+
+.animation-container i {
+    color: #e36f34;
+}
+
+/* second section */
+.second-section .text-container {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.second-section p {
+    font-size: 1rem;
+}
+
+.second-section img {
+    width: 100%;
+    height: 100%;
+}
+
+/* service section */
+
+.maincontainer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.cards-container {
+   margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+Button a {
+    text-decoration: none;
+    color: white;
+}

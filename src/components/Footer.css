@@ -1,0 +1,20 @@
+.footer-section {
+    background-color: #9acd4c;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+p {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.icons-container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    justify-content: space-around;
+}

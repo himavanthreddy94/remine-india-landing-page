@@ -1,0 +1,14 @@
+.contact-form-section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.contact-form-section h1 {
+    text-align: center;
+    font-size: 3rem;
+    padding: 30px;
+}
+
+.container {
+    margin-left: 30%;
+}
